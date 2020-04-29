@@ -8,7 +8,9 @@
 BukkitAPI対応のサーバーソフトウェアにjarファイルを放り込む。
 
 ## How To Use
+
 /banhammer - Ban Hammerを取り出す。
+
 /banhammer [reason] - ban した時の理由を設定してBAN Hammerを取り出す
 
 Ban Hammerを持った状態で対象を殴る事で、相手はBANされます。
