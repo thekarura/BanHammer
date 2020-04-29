@@ -1,0 +1,9 @@
+name: BanHammer
+version: 1.0.0
+main: net.tkarura.banhammer.BanHammer
+api-version: 1.13
+commands:
+  banhammer:
+    permission: 'banhammer.command.banHammer'
+    description: 'get a ban hammer.'
+    usage: '/banhammer [reason]'
